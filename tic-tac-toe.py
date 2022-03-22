@@ -2,7 +2,7 @@ from calendar import c
 import random
 import numpy
 
-
+# This is tic-tac-toe
 row = int(input('Enter the Number of rows for the board: '))
 col = int(input('Enter the Number of columns for the board: '))
 
